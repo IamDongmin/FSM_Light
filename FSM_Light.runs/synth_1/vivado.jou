@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Oct 23 22:20:57 2022
+# Process ID: 23292
+# Current directory: D:/portfolio/FSM_Light/FSM_Light.runs/synth_1
+# Command line: vivado.exe -log top_ledLight.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_ledLight.tcl
+# Log file: D:/portfolio/FSM_Light/FSM_Light.runs/synth_1/top_ledLight.vds
+# Journal file: D:/portfolio/FSM_Light/FSM_Light.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_ledLight.tcl -notrace
